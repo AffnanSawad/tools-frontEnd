@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/270B01Wb/bmw-m4-coupe-competition-4k-wallpaper-preview.jpg",
+    "title": "BMW M4 Competition Coupe",
+    "brand": "BMW",
+    "model": "M4 Competition",
+    "fuel_type": "Petrol",
+    "description": "The BMW M4 Competition Coupe is a high-performance sports car featuring a 3.0L twin-turbo inline-6 engine, producing 503 hp. It offers a luxurious interior with cutting-edge technology, dynamic handling, and aggressive styling. This car ensures a thrilling driving experience with its precise steering and robust powertrain, making it perfect for car enthusiasts.",
+    "price": 82000
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/h0RcJFn/1bb9f6f7-f868-503a-b47c-0ffb50f50000.jpg",
+    "title": "Mercedes-AMG GT 63",
+    "brand": "Mercedes",
+    "model": "AMG GT 63",
+    "fuel_type": "Petrol",
+    "description": "The Mercedes-AMG GT 63 is a four-door high-performance luxury coupe powered by a 4.0L twin-turbo V8, producing 630 hp. It boasts an aerodynamic design, premium cabin materials, and cutting-edge driver assistance systems. With its superior speed and control, this car is a perfect blend of power and luxury.",
+    "price": 140000
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/TBKvL2Hc/white-coupe-toyota-supra-the-fifth-generation-hd-wallpaper-preview.jpg",
+    "title": "Toyota GR Supra",
+    "brand": "Toyota",
+    "model": "GR Supra",
+    "fuel_type": "Petrol",
+    "description": "The Toyota GR Supra is an iconic sports car featuring a turbocharged 3.0L inline-6 engine that delivers 382 hp. It offers a balanced chassis, sharp handling, and an aggressive exterior design. The driver-focused cockpit and advanced safety features make it a fantastic choice for sports car enthusiasts.",
+    "price": 55000
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/spFBQjb0/jaguar-f-type-coupe-wallpaper-preview.jpg",
+    "title": "Jaguar F-Type R",
+    "brand": "Jaguar",
+    "model": "F-Type R",
+    "fuel_type": "Petrol",
+    "description": "The Jaguar F-Type R is a premium sports coupe with a 5.0L supercharged V8 engine, generating 575 hp. It features an aggressive design, all-wheel drive, and an elegant, high-tech interior. This car delivers outstanding performance and agility, offering an exhilarating driving experience.",
+    "price": 90000
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/q33VCyyX/HD-wallpaper-jeep-wrangler-unlimited-rubicon-392-2024.jpg",
+    "title": "Jeep Wrangler Rubicon",
+    "brand": "Jeep",
+    "model": "Wrangler Rubicon",
+    "fuel_type": "Diesel",
+    "description": "The Jeep Wrangler Rubicon is a rugged off-road SUV with a 3.6L V6 engine, offering outstanding all-terrain capability. Equipped with rock-crawling suspension, durable axles, and a removable roof, it is built for adventure. The interior provides modern technology and comfort while maintaining its legendary off-road DNA.",
+    "price": 48000
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/Dg4FBNm7/HD-wallpaper-2020-ford-mustang-shelby-gt500.jpg",
+    "title": "Ford Mustang Shelby GT500",
+    "brand": "Ford",
+    "model": "Shelby GT500",
+    "fuel_type": "Petrol",
+    "description": "The Ford Mustang Shelby GT500 is a legendary American muscle car with a supercharged 5.2L V8 engine producing 760 hp. It features an aggressive design, race-inspired aerodynamics, and a modern cockpit. With blistering acceleration and precise handling, this Mustang is a true performance beast.",
+    "price": 85000
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/wh327pqt/bmw-bmw-x5-m-competition-car-luxury-car-mid-size-car-hd-wallpaper-preview.jpg" ,
+    "title": "BMW X5 M Competition",
+    "brand": "BMW",
+    "model": "X5 M Competition",
+    "fuel_type": "Petrol",
+    "description": "The BMW X5 M Competition is a luxury SUV with a powerful 4.4L twin-turbo V8 engine delivering 617 hp. It features an opulent interior, state-of-the-art technology, and advanced safety features. Combining speed, comfort, and practicality, it is a top-tier performance SUV.",
+    "price": 110000
+  },
+  {
+    "id": 8,
+    "image":"https://i.ibb.co.com/G3bLvKx2/1-Mersedes-G-Black-2.jpg",
+    "title": "Mercedes-Benz G63 AMG",
+    "brand": "Mercedes",
+    "model": "G63 AMG",
+    "fuel_type": "Petrol",
+    "description": "The Mercedes-Benz G63 AMG is a luxury off-road SUV with a 4.0L twin-turbo V8 engine producing 577 hp. It blends rugged capabilities with supreme comfort and modern technology, making it an elite vehicle for any terrain.",
+    "price": 160000
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/zHRD41DF/2025-Toyota-Landcruiser-300-Series.png",
+    "title": "Toyota Land Cruiser 300",
+    "brand": "Toyota",
+    "model": "Land Cruiser 300",
+    "fuel_type": "Diesel",
+    "description": "The Toyota Land Cruiser 300 is a powerful and reliable SUV with a 3.3L twin-turbo diesel engine. It offers incredible off-road performance, a luxurious interior, and advanced driver assistance features for long-lasting durability and adventure.",
+    "price": 95000
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/GD0FfgP/2020-jaguar-xe-p300-r-dynamic-4k-HD.jpg",
+    "title": "Jaguar XE R-Dynamic",
+    "brand": "Jaguar",
+    "model": "XE R-Dynamic",
+    "fuel_type": "Petrol",
+    "description": "The Jaguar XE R-Dynamic is a luxury sedan with a sleek design, agile handling, and a 2.0L turbocharged engine. It offers a premium interior, intelligent safety features, and a refined driving experience for city and highway travel.",
+    "price": 60000
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/xkmr7KT/2019-jeep-grand-cherokee-limited-x-review.jpg",
+    "title": "Jeep Grand Cherokee L",
+    "brand": "Jeep",
+    "model": "Grand Cherokee L",
+    "fuel_type": "Petrol",
+    "description": "The Jeep Grand Cherokee L is a luxurious 7-seater SUV with a 3.6L V6 engine, offering a perfect blend of off-road capability and modern comfort. It features a refined interior, advanced technology, and excellent safety systems for long-distance travel.",
+    "price": 58000
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/HfXrLLph/2019-cars-ford-ranger-raptor-4k-wallpaper-preview.jpg",
+    "title": "Ford Ranger Raptor",
+    "brand": "Ford",
+    "model": "Ranger Raptor",
+    "fuel_type": "Diesel",
+    "description": "The Ford Ranger Raptor is a high-performance off-road pickup truck powered by a 2.0L bi-turbo diesel engine. It features FOX shocks, reinforced suspension, and rugged design, making it ideal for extreme terrain and adventure seekers.",
+    "price": 55000
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/nMcQK9BC/fce3476729e7862724a0a73034218eb6.jpg",
+    "title": "BMW 7 Series 760i xDrive",
+    "brand": "BMW",
+    "model": "760i xDrive",
+    "fuel_type": "Petrol",
+    "description": "The BMW 7 Series 760i xDrive is an ultra-luxury sedan with a 4.4L twin-turbo V8 engine. It features a spacious, high-tech cabin, premium materials, and cutting-edge driver assistance technology for unparalleled comfort and performance.",
+    "price": 120000
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/gZ8TFBkZ/1-2025-mercedes-benz-s-class-front-view.jpg",
+    "title": "Mercedes-Benz S-Class",
+    "brand": "Mercedes",
+    "model": "S-Class",
+    "fuel_type": "Petrol",
+    "description": "The Mercedes-Benz S-Class is the pinnacle of luxury sedans, featuring a 3.0L inline-6 turbo engine with mild hybrid technology. It offers supreme ride quality, high-end materials, and a futuristic infotainment system.",
+    "price": 130000
+  },
+  {
+    "id": 15,
+    "image":"https://i.ibb.co.com/f6ns7wv/gray-camry-hybrid-toyota-4k-mv8d4x3bp23yni87.jpg",
+    "title": "Toyota Camry Hybrid",
+    "brand": "Toyota",
+    "model": "Camry Hybrid",
+    "fuel_type": "Hybrid",
+    "description": "The Toyota Camry Hybrid is a fuel-efficient midsize sedan powered by a 2.5L hybrid engine. It combines a stylish exterior, spacious interior, and advanced safety features, making it a great choice for eco-conscious drivers.",
+    "price": 40000
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/HLKLBnLN/HD-wallpaper-2019-jaguar-i-pace-ev400-awd-hse-first-edition-color-n-red-front-car.jpg",
+    "title": "Jaguar I-PACE EV400",
+    "brand": "Jaguar",
+    "model": "I-PACE EV400",
+    "fuel_type": "Electric",
+    "description": "The Jaguar I-PACE is a luxury electric SUV offering 394 hp and an impressive 234-mile range. It features a futuristic design, premium cabin materials, and fast-charging capabilities, making it a top choice for EV lovers.",
+    "price": 75000
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/VWQ12Dxk/2016-cars-compass-jeep-wallpaper-preview.jpg",
+    "title": "Jeep Compass Trailhawk",
+    "brand": "Jeep",
+    "model": "Compass Trailhawk",
+    "fuel_type": "Diesel",
+    "description": "The Jeep Compass Trailhawk is a rugged compact SUV with a 2.0L turbo diesel engine. Designed for off-road adventures, it comes with all-terrain tires, skid plates, and a modern infotainment system.",
+    "price": 36000
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/BD96mwJ/2021-ford-bronco-2-door-first-edition-2-4k-hd-cars-2560x1440.jpg",
+    "title": "Ford Bronco Wildtrak",
+    "brand": "Ford",
+    "model": "Bronco Wildtrak",
+    "fuel_type": "Petrol",
+    "description": "The Ford Bronco Wildtrak is an adventure-ready SUV with a 2.7L twin-turbo V6 engine. It offers a removable roof, off-road suspension, and trail-ready tech for outdoor exploration and rugged terrain.",
+    "price": 62000
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/6JfqjkzW/carpixel-net-2023-bmw-ix-m60-us-107496-wide.jpg",
+    "title": "BMW iX M60",
+    "brand": "BMW",
+    "model": "iX M60",
+    "fuel_type": "Electric",
+    "description": "The BMW iX M60 is a luxury electric SUV with 610 hp and a range of 324 miles. It features a futuristic interior, all-wheel drive, and next-gen infotainment, offering a premium EV experience.",
+    "price": 120000
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/C5Q7CyMJ/driven-2023-mercedes-benz-eqe-350-4matic-executive-class-goes-electric-16.jpg",
+    "title": "Mercedes-Benz EQE 500",
+    "brand": "Mercedes",
+    "model": "EQE 500",
+    "fuel_type": "Electric",
+    "description": "The Mercedes-Benz EQE 500 is a luxury electric sedan offering 402 hp and a range of 305 miles. It has a high-tech cabin, smooth ride, and advanced driver assistance features, making it a top EV contender.",
+    "price": 100000
+  }
+]
